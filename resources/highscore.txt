@@ -1,0 +1,10 @@
+Piotrek                                          210
+Player                                           210
+ccc                                              180
+Player                                           170
+Kuba                                             110
+Piotr                                            100
+Player                                           100
+Player                                           80
+Player                                           40
+Player                              260

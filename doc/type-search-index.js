@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"snake","l":"Board"},{"p":"snake","l":"Game"},{"p":"snake","l":"Game.State"},{"p":"snake","l":"GamePanel"},{"p":"snake","l":"Highscore"},{"p":"snake","l":"Snake"},{"p":"snake","l":"SnakeView"}]
